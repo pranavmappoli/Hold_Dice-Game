@@ -1,9 +1,6 @@
 Here i Build a simple Game using Java Script. You can play using below link
-
 pranavmappoli.github.io/hold_dice-game/
-
 Rules of Game:
-
 1:- This is a multiplayer Game.
 2:- You can throw dice and accumulate your score.
    BUT:
