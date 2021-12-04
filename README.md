@@ -1,6 +1,6 @@
 Here i Build a simple Game using Java Script. You can play using below link
 
-pranavmappoli.github.io/hold_dice-game/
+https://pranavmappoli.github.io/Hold_Dice-Game/
 
 Rules of Game:
 
